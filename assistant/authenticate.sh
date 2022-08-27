@@ -1,0 +1,1 @@
+google-oauthlib-tool --scope https://www.googleapis.com/auth/assistant-sdk-prototype --save --headless --client-secrets /home/stars/whitecane/assistant/client_secret_97534265992-8u2ua17tirjk0i5r1h3d2babs41eot27.apps.googleusercontent.com.json
