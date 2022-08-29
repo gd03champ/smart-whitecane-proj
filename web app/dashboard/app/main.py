@@ -15,7 +15,7 @@ cur = con.cursor()
 
 app = Flask(__name__)
 
-app.config['SECRET_KEY'] = 'tHiS!iS@a#SeCrEt$'
+app.config['SECRET_KEY'] = ''
 app.config['SIMPLELOGIN_HOME_URL'] = '/dashboard'
 SimpleLogin(app)
 #render_template('template.html', data=data)
