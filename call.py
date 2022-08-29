@@ -9,9 +9,9 @@ import g_authenticate  #ff
 
 
 
-key = "92c20327-10b2-4d94-9106-f0b36d02c2e2"
-secret = "ACIHWQ0vE0OUr6xcUDsi0Q=="
-fromNumber = "+447520651713"
+key = "92c20327-10b2-4d94-9106-"
+secret = "ACIHWQ0vE0OGDcUDsi0Q=="
+fromNumber = "+447520651700"
 to = "+918825648984"
 locale = "en-US"
 url = "https://calling.api.sinch.com/calling/v1/callouts"
