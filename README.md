@@ -1,29 +1,13 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
+[![Stargazers][stars-shield]][https://github.com/login?return_to=%2Fgd03champ%2Fsmart-whitecane-proj]
+[![Issues][issues-shield]][https://github.com/gd03champ/smart-whitecane-proj/issues]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/gd03n/]
 
 
 
@@ -34,19 +18,17 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SMART WHITECANE 🦯</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A new way of looking<br>
+    (Smart India Hackathon Winning Project)
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+     ·
+    <a href="https://github.com/gd03champ/smart-whitecane-proj/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/gd03champ/smart-whitecane-proj/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,16 +67,21 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+We've created a smart whitecane project with working prototype that enable blind people to do extraordinary tasks with ease making their life lot more easier and happier 🙂 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Some of Features:
+* GPS loaction tts on push interation
+* Realtime environment object detection with positional analysis on interaction 
+* Directly connects to cloud DB every given time interval and ubpates data such as latitude, longitude and date time
+* Mobile App and Flask Web App with user authentication to help tract whitecane user using cloud DB 
+* Emergency SOS button that sends automated call and message to registered mobile containing information such as name, location, and link to live location tracking 
+* Embeded witth the power of google assistant
+* Works both online and offline
+* Each module supports to work in over 100+ languages when online
+* Obstacle distance detection and beeps on who's frequency matches distance of the obstacle
+* Bluetooth earphone connection with locked MAC address for security
+* In oter words, it makes some people's life easier 👨‍🦯
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,9 +89,9 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Some of the techstack used.
 
-* [![Next][Next.js]][Next-url]
+* [![Next][Python.org]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
