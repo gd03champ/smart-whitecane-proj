@@ -3,12 +3,12 @@
 
 
 <!-- PROJECT SHIELDS -->
-
+<center>
 [![Stargazers][stars-shield]](https://github.com/login?return_to=%2Fgd03champ%2Fsmart-whitecane-proj)
 [![Issues][issues-shield]](https://github.com/gd03champ/smart-whitecane-proj/issues)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gd03n/)
-
+</center>
 
 
 <!-- PROJECT LOGO -->
